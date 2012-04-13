@@ -1,0 +1,68 @@
+<!-- Twitter Bootstrap navbar -->
+
+<div class="navbar navbar-fixed-top">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+
+      <a class="brand" href="/2012/">
+        <span id="tpg-logo">
+          <img id="logo" src="/images/TPG_logo_small.png" alt="TPG">
+        </span>
+      </a>
+
+      <div class="nav-collapse">
+        <ul id="navbar-list" class="nav pull-left">
+          <li id="navbar-home"><a href="index.html">Home</a></li>
+          <li class="divider-vertical"></li>
+          <li id="navbar-faq"><a href="faq.html">FAQ</a></li>
+          <li class="divider-vertical"></li>
+          <li id="navbar-groups"><a href="groups.html">Groups</a></li>
+          <li class="divider-vertical"></li>
+          <li id="navbar-contact"><a href="contact.html">Contact&nbsp;Us</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+String.prototype.endsWith = function(suffix) {
+  return this.indexOf(suffix, this.length - suffix.length) !== -1;
+};
+
+var pathToID = {
+  "/"                  : ['#navbar-home'],
+  "/˝"                 : ['#navbar-home'],
+  "/index.html"        : ['#navbar-home'],
+  "/contact.html"      : ['#navbar-contact'],
+  "/groups.html"       : ['#navbar-groups'],
+  "/faq.html"          : ['#navbar-faq']
+};
+
+$(document).ready(function() {
+  function mapPathToID(path) {
+    var key;
+    var id = null;
+    for (key in pathToID) {
+      if (path === key) {
+        id = pathToID[key];
+        break;
+      }
+    }
+
+    return id;
+  };
+  var ids = mapPathToID(window.location.pathname);
+  if (ids != null) {
+    var i;
+    for (i = 0; i < ids.length; i++) {
+      $(ids[i]).addClass("active");
+    }
+  }
+});
+</script>

@@ -1,0 +1,2 @@
+exclude: [README.md, photoshop-sources, CNAME]
+markdown: kramdown

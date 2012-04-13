@@ -1,0 +1,451 @@
+@import "bourbon/bourbon";
+@import "bootstrap/sass/bootstrap.scss";
+@import "bootstrap/sass/responsive.scss";
+
+// ---------------------------------------------------------------------------
+// Twitter Bootstrap Variables
+// ---------------------------------------------------------------------------
+
+$navbarBackground: #9c9c9c;
+$navbarBackgroundHighlight: #9c9c9c;
+$navbarLinkColor: $white;
+$navbarLinkColorHover: $yellow;
+$navbarHeight: 40px;
+$navbarFontSize: 14px;
+
+$baseFontFamily: Helvetica, Arial, Verdana, sans-serif;
+$baseFontSize: 16px;
+
+$gridColumnWidth: 60px;
+$gridGutterWidth: 20px;
+
+// ---------------------------------------------------------------------------
+// Variables
+// ---------------------------------------------------------------------------
+
+$border-color: #ccc;
+$rounded-border-radius: 10px;
+$header-font: "Crimson Text", "Times New Roman", serif;
+$header-padding: 10px 0px 10px 0px;
+$top-header-color: #dd3333;
+
+$navbar-gradient-top: $navbarBackground;
+$navbar-gradient-bottom: darken($navbar-gradient-top, 40%);
+
+$toc-gradient-top: $navbar-gradient-top;
+$toc-gradient-bottom: $navbar-gradient-bottom;
+
+$page-title-color: $top-header-color;
+$sponsor-sidebar-bgcolor: white;
+
+// ---------------------------------------------------------------------------
+// Local mixins
+// ---------------------------------------------------------------------------
+
+@mixin drop-shadow($offset: 5px, $spread: 2px, $color: #999) {
+  // Drop shadow (lower right)
+  @include box-shadow($offset $offset $spread 0 $color);
+}
+
+@mixin rounded-border($radius: $rounded-border-radius) {
+  @include border-radius($radius);
+  padding: {
+    left: $rounded-border-radius;
+    right: $rounded-border-radius;
+    top: $rounded-border-radius;
+    bottom: $rounded-border-radius;
+  }
+}
+
+// ---------------------------------------------------------------------------
+// General
+// ---------------------------------------------------------------------------
+
+
+html {
+  height: 100% !important;
+}
+
+body {
+  height: 100% !important;
+}
+
+body.error-page {
+  @include rounded-border;
+  border: 1px solid gray;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto !important;
+}
+
+@mixin full-height {
+  // height: auto !important;
+  min-height: 100% !important;
+}
+
+.logo-in-content {
+  height: 100px;
+  float: right;
+  margin-right: 30px;
+}
+
+#page-title {
+  color: $page-title-color;
+
+  font: {
+    size: 250%;
+    family: $header-font;
+    weight: bold;
+  }
+
+  margin: {
+    top: 30px !important;
+    bottom: 20px !important;
+  }
+}
+
+$main-content-padding-top: $navbarHeight + 40px;
+
+#main-content {
+
+  padding-top: $main-content-padding-top;
+
+  img.photo {
+    @include drop-shadow($color: #444);
+    margin: 15px;
+    padding: 0 !important;
+  }
+
+  // ----------------------------------------------------------------------
+  // FIXED SIDEBAR DEFS
+  // ----------------------------------------------------------------------
+
+  // If the browser is large enough, use a fixed sponsor sidebar, ensuring
+  // that it's always present. For smaller screens, though, skip the
+  // fixed sidebar; it screws up the responsive rendering. See 
+  // http://stackoverflow.com/questions/9350818/
+
+  $sponsor-sidebar-width: ($gridColumnWidth + $gridGutterWidth) * 3;
+
+  @media (min-width: 960px) {
+    #sponsors-sidebar {
+      position: fixed;
+      left: 20px;
+      top: $main-content-padding-top;
+      width: $sponsor-sidebar-width;
+    }
+
+    #page-content {
+      // NOTE: If you change the multiplier, be sure to change the "span3"
+      // in _layouts/main-2012.html
+      padding-left: $sponsor-sidebar-width;
+    }
+  }
+
+  // ----------------------------------------------------------------------
+  // END FIXED SIDEBAR DEFS
+  // ----------------------------------------------------------------------
+
+
+  #sponsors-sidebar {
+    margin-right: 10px !important;
+
+    text-align: center;
+    background: $sponsor-sidebar-bgcolor !important;
+
+    @include rounded-border;
+
+    border: 1px solid $border-color;
+
+    .sponsor-block {
+
+      margin-top: 10px;
+
+      .heading {
+        font: {
+          family: $header-font;
+          size: 150%;
+          color: $top-header-color;
+          weight: bold;
+        }
+
+        margin-bottom: 40px;
+        margin-top: 40px;
+      }
+
+      ul {
+        list-style-type: none;
+
+        li {
+          padding: 0;
+          margin: {
+            left: -5px;
+            right: 0;
+            top: 5px;
+            bottom: 0px;
+          }
+        }
+      }
+    }
+
+   .sponsor-block {
+      img.sponsor-icon {
+          height: 32px !important;
+      }
+
+      ul {
+        margin: 0;
+        li {
+          margin: {
+            top: 10px;
+            bottom: 0;
+            left: 0;
+            right: 0;
+          }
+        }
+      }
+    }
+  }
+
+  div#page-content {
+    margin-left: 10px;
+    width: 95% !important;
+  }
+
+  li {
+    line-height: 1.2em !important;
+  }
+
+  p {
+    margin-bottom: 15px !important;
+    line-height: 1.2em !important;
+    margin-left: 1em !important;
+  }
+
+  ul {
+    li {
+      margin-left: 1em;
+    }
+  }
+
+  h1 {
+    font-family: $header-font !important;
+    padding: $header-padding !important;
+  }
+
+  h2 {
+    font-family: $header-font !important;
+    padding: $header-padding !important;
+  }
+
+  h3 {
+    font-family: $header-font !important;
+    padding: $header-padding !important;
+  }
+
+  h4 {
+    font-family: $header-font !important;
+    padding: $header-padding !important;
+  }
+
+  div#twitter-widget {
+    margin: {
+      left: 20px;
+      right: 20px;
+      top: 0px;
+    }
+    float: right;
+  }
+}
+
+#calendar {
+  width: 800px;
+}
+
+img.last {
+  margin {
+    bottom: 20px;
+    left: auto;
+    right: auto;
+  }
+  display: block;
+}
+
+img.right {
+  float: right;
+  padding-left: 10px;
+}
+
+div.center {
+  width: 30%;
+  margin: {
+    left: auto;
+    right: auto;
+  }
+  img {
+    padding: 10px;
+    align: center;
+  }
+}
+
+img.left {
+  float: left;
+  padding-right: 10px;
+}
+
+// ---------------------------------------------------------------------------
+// Table of Contents 
+// ---------------------------------------------------------------------------
+
+#toc-block {
+  @include border-radius($rounded-border-radius);
+  padding: $rounded-border-radius;
+  border: 1px solid $border-color;
+  color: white;
+
+  a {
+    color: white;
+  }
+
+  margin: {
+    top: 10px;
+    bottom: 10px;
+    left: 10px;
+    right: 20px;
+  }
+
+  @include drop-shadow;
+
+  float: right;
+
+  @include linear-gradient(top, $toc-gradient-top, $toc-gradient-bottom);
+
+  .toc-heading {
+    color: white;
+    text-shadow: 2px 2px 1px black;
+
+    font: {
+      weight: bold;
+      size: 140%;
+      family: $header-font;
+    }
+
+  }
+
+  ul#toc {
+    padding-top: 5px;
+    padding-left: 0;
+    margin-left: -4px;
+    margin-right: 5px;
+    list-style-type: none;
+    list-style-position: inside;
+    background: transparent;
+
+    li {
+      ul {
+        list-style-type: none;
+        list-style-position: inside;
+        padding-left: 0;
+        margin-left: 0px;
+      }
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Twitter Bootstrap Overrides
+// ---------------------------------------------------------------------------
+
+@mixin navbar-gradient {
+  @include linear-gradient(top, $navbar-gradient-top, $navbar-gradient-bottom);
+}
+
+$logo-font-size: 20px;
+.navbar {
+
+  width: 100% !important;
+  margin-left: 0px !important;
+  font-size: $navbarFontSize !important;
+
+  .nav {
+    height: $navbarHeight;
+    padding-top: (($navbarHeight - 20)/ 2);
+
+    & > li > a {
+      padding-top: ($navbarHeight - $navbarFontSize) / 2;
+      padding-right: 10px;
+      padding-bottom: ($navbarHeight - $navbarFontSize) / 2;
+      padding-left: 10px;
+    }
+  }
+
+  .navbar-inner {
+    .container {
+      width: 100%;
+      margin: 0;
+
+      a:hover {
+        background: transparent !important;
+        color: red !important;
+      }
+
+      li.active {
+        background: transparent !important;
+        color: yellow !important;
+
+        a {
+          background: transparent !important;
+        }
+      }
+
+      ul#navbar-list {
+        li {
+          margin: 0 !important;
+          padding: 0 !important;
+
+          &.dropdown {
+
+            ul.dropdown-menu {
+              li {
+                a {
+                  color: black !important;
+                }
+
+                &.active {
+                  a {
+                    font: {
+                      weight: bold !important;
+                      style: italic !important;
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+
+      @include navbar-gradient;
+
+      .brand {
+        padding-top: $navbarHeight;
+        padding: ((($navbarHeight - 20) / 2) * 0.8) 20px ((($navbarHeight - 20) / 2) * 1.2);
+
+        #scalathon-logo {
+          p {
+            img#logo {
+              height: $navbarHeight !important;
+            }
+
+            font: {
+              size: $logo-font-size;
+              family: $header-font !important;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
