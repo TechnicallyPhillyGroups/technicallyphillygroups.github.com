@@ -13,11 +13,11 @@ written to "TPG," as well.
 
 ## What is the relationship between Technically Philly and TPG?
 
-[Technically Philly][] is our partner and has graciously allowed us to
-piggyback on their good name. However, Technically Philly Groups is a
-completely separate entity. Technically Philly Groups is a Pennsylvania
-non-profit corporation, and it is _not_ a subsidiary of or a related business
-unit of Technically Media, Inc., which runs the Technically Philly web site.
+[Technically Philly][] has graciously allowed us to piggyback on their good
+name. However, TPG is a completely separate entity. "Tecnically Philly Groups"
+is the name of our Pennsylvania non-profit corporation; it is _not_ a
+subsidiary or a related business unit of Technically Media, Inc., which runs
+the Technically Philly web site.
 
 ## Are my contributions to TPG tax-deductible?
 
