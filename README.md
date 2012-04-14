@@ -54,6 +54,15 @@ To publish the site to GitHub, *always* run Rake first. Here are the steps:
     $ git commit -am 'your commit message'
     $ git push origin gh-pages
 
+To push to the GitHub repository, you'll need two things:
+
+1. A GitHub account.
+2. Permission to push to the repository. Contact [André Dhondt][] or
+   [Brian Clapper][] to request permission to push.
+
+[Brian Clapper]: https://github.com/bmc
+[André Dhondt]: https://github.com/adhondt
+
 ## Styling
 
 ### To customize the look and feel
@@ -87,8 +96,6 @@ That command will
 * Clone the Sass-Twitter-Bootstrap repo into a temporary directory.
 * Copy the appropriate Sass files from the cloned repo into the
   `./bootstrap/sass` directory.
-
-It will *not touch* our `custom.less` file (which is good).
 
 [Less]: http://lesscss.org/
 [Twitter Bootstrap]: http://twitter.github.com/bootstrap/
