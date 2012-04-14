@@ -39,16 +39,23 @@
         <!--
           WARNING: If you change the following "span3" or the "span9" on
                    #page-content, you MUST change the appropriate fixed sidebar
-                   values in sass/styles-2012.scss
+                   values in sass/styles.scss
         -->
+        {% if page.show_sponsors_sidebar %}
+
         <div class="span3">
           <div id="sponsors-sidebar">
-          {% include sponsors.html %}
+          {% include sponsors_sidebar.html %}
           </div>
         </div>
 
         <div class="span9">
+          <div id="page-content" class="with-sidebar">
+        {% else %}
+        <div class="span12" class="without-sidebar">
           <div id="page-content">
+        {% endif %}
+
 
             <div id="page-title">{{ page.title }}</div>
         

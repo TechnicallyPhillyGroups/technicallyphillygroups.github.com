@@ -137,9 +137,15 @@ $main-content-padding-top: $navbarHeight + 50px;
     }
 
     #page-content {
-      // NOTE: If you change the multiplier, be sure to change the "span3"
-      // in _layouts/main-2012.html
-      padding-left: $sponsor-sidebar-width;
+      &.with-sidebar {
+        // NOTE: If you change the multiplier, be sure to change the "span3"
+        // in _layouts/main-2012.html
+        padding-left: $sponsor-sidebar-width;
+      }
+
+      &.without-sidebar {
+        padding-left: 0;
+      }
     }
   }
 
@@ -147,9 +153,9 @@ $main-content-padding-top: $navbarHeight + 50px;
   // END FIXED SIDEBAR DEFS
   // ----------------------------------------------------------------------
 
-
   #sponsors-sidebar {
     margin-right: 10px !important;
+    margin-top: 10px;
 
     text-align: center;
     background: $sponsor-sidebar-bgcolor !important;
@@ -322,19 +328,19 @@ img.left {
 
   ul#toc {
     padding-top: 5px;
-    padding-left: 0;
-    margin-left: -4px;
+    margin-left: -5px;
     margin-right: 5px;
     list-style-type: none;
     list-style-position: inside;
     background: transparent;
 
     li {
+      
+      margin-left: -5px;
+
       ul {
         list-style-type: none;
         list-style-position: inside;
-        padding-left: 0;
-        margin-left: 0px;
       }
     }
   }

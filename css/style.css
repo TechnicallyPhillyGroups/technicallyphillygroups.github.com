@@ -4373,10 +4373,13 @@ body.error-page {
       left: 20px;
       top: 110px;
       width: 240px; }
-    #main-content #page-content {
-      padding-left: 240px; } }
+    #main-content #page-content.with-sidebar {
+      padding-left: 240px; }
+    #main-content #page-content.without-sidebar {
+      padding-left: 0; } }
   #main-content #sponsors-sidebar {
     margin-right: 10px !important;
+    margin-top: 10px;
     text-align: center;
     background: white !important;
     -webkit-border-radius: 10px;
@@ -4492,17 +4495,16 @@ img.left {
     font-family: "Crimson Text", "Times New Roman", serif; }
   #toc-block ul#toc {
     padding-top: 5px;
-    padding-left: 0;
-    margin-left: -4px;
+    margin-left: -5px;
     margin-right: 5px;
     list-style-type: none;
     list-style-position: inside;
     background: transparent; }
-    #toc-block ul#toc li ul {
-      list-style-type: none;
-      list-style-position: inside;
-      padding-left: 0;
-      margin-left: 0px; }
+    #toc-block ul#toc li {
+      margin-left: -5px; }
+      #toc-block ul#toc li ul {
+        list-style-type: none;
+        list-style-position: inside; }
 
 .navbar {
   width: 100% !important;
