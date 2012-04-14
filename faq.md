@@ -6,38 +6,58 @@ generate_toc: true
 toc_header: none
 ---
 
-## Frequently asked question #1
+## Is your name "TPG" or "Technically Philly Groups"?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempor aliquet
-lacus. Ut sit amet leo et magna laoreet mollis sit amet vel ante. Vivamus sit
-amet enim nec risus dignissim eleifend ut nec sem. Aenean tortor orci, suscipit
-sed porta id, semper vitae augue. Nulla facilisi. Aenean sed libero metus.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-turpis egestas. Etiam neque mi, aliquam sit amet faucibus eget, aliquam eget
-elit. Mauris vitae tortor sit amet sapien laoreet aliquam. Ut accumsan dapibus
-feugiat. Phasellus semper quam ut urna sodales euismod ornare orci condimentum.
-Pellentesque odio mi, hendrerit at congue ac, gravida in urna.
+Officially, we're "Technically Philly Groups," but the bank will cash checks
+written to "TPG," as well.
 
-## Frequently asked question #2
+## What is the relationship between Technically Philly and TPG?
 
-Donec nisi mauris, laoreet nec commodo et, tristique in ante. Quisque lorem
-nulla, pharetra a hendrerit nec, faucibus sed nisl. Morbi ut erat quam, vel
-hendrerit massa. Proin et tristique justo. Donec consectetur eros et velit
-venenatis luctus. Cras eget lorem nec ante gravida laoreet. Nam consectetur
-scelerisque felis sed tincidunt. Ut aliquam gravida mauris in auctor.
-Pellentesque ligula risus, pulvinar et tempor nec, iaculis pharetra turpis.
-Nulla facilisi. Integer massa eros, molestie at feugiat eu, tristique nec nibh.
-Donec varius dapibus ligula ut vehicula. Nam ac nibh sapien, ac pellentesque
-arcu.
+[Technically Philly][] is our partner and has graciously allowed us to
+piggyback on their good name. However, Technically Philly Groups is a
+completely separate entity. Technically Philly Groups is a Pennsylvania
+non-profit corporation, and it is _not_ a subsidiary of or a related business
+unit of Technically Media, Inc., which runs the Technically Philly web site.
 
-## Frequently asked question #3
+## Are my contributions to TPG tax-deductible?
 
-In luctus massa urna. Quisque in nulla justo. In blandit magna ac tellus
-vulputate blandit. Vestibulum at turpis eget diam tristique porta eu vel risus.
-Duis vel sagittis enim. Maecenas in nulla vel neque ornare blandit. Nunc vitae
-nibh tellus, at interdum augue. In hac habitasse platea dictumst. Sed turpis
-risus, tempor sit amet pulvinar nec, pellentesque non magna. Quisque sed odio
-orci, eu malesuada tortor. Nulla non lectus at justo rutrum varius. Sed
-euismod, nulla scelerisque ultrices tincidunt, nisl odio faucibus magna, non
-gravida nibh metus eget dui. Ut vel nulla sem. Integer posuere sollicitudin
-dolor, in lobortis nunc rutrum sed.
+No. While Technically Philly Groups is a non-profit company, it is _not_
+a 501(c)(3). Most companies that give us money categorize the donation as
+"Advertising and Promotion," rather than "Charitable Contribution."
+
+## Who runs TPG?
+
+André Dhondt is the driving force behind the creation of TPG. However, many
+others are involved in setting the group's direction and working behind the
+scenes to make things happen.
+
+## Is the City of Philadelphia officially involved?
+
+Yes. TPG has the attention of the Mayor's office. Through representatives
+from the City, TPG has access to additional resources, including meeting
+space in the City's Municipal Services Building.
+
+[Technically Philly]: http://technicallyphilly.com/
+
+## How can I or my group get involved?
+
+See our [Contacts](/contact.html) page.
+
+## How can TPG help my user group?
+
+In various ways, including:
+
+* **Facilities**. Through an agreement with the City of Philadelphia, TPG
+  has access to rooms in the Municipal Services Building, at Broad and Arch
+  Sts.
+* **Equipment**. TPG has projectors to lend.
+* **Food**. TPG member groups often meet at the same time, in the Municipal
+  Services Building, in different rooms on the 16th floor. These joint meeting
+  help to promote cross-pollination and networking. TPG sponsors generally
+  take care of providing pizza and drinks for these meetings.
+* **Promotion**. TPG can help promote your group to the wider technology
+  audience in the Philadelphia area.
+
+## What's the answer to life, the universe, and everything?
+
+42. (Of course.)

@@ -4,9 +4,9 @@ layout: default
 tab: home
 ---
 
-Technically Philly Groups (TPG) is a Pennsylvania non-profit corporation
-(though *not* a 501(c)(3)), dedicated to supporting the many  technology users
-groups in the Philadelphia metropolitan area.
+Technically Philly Groups (TPG) is a Pennsylvania non-profit corporation,
+dedicated to supporting the many  technology users groups in the Philadelphia
+metropolitan area.
 
 TPG is a *meta-group*, organized in 2011 to lighten the load of running our
 user groups (by sharing venues and sponsors), to promote the cross-pollination
