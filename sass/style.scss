@@ -6,11 +6,11 @@
 // Twitter Bootstrap Variables
 // ---------------------------------------------------------------------------
 
-$navbarBackground: #9c9c9c;
-$navbarBackgroundHighlight: #9c9c9c;
+$navbarBackground: #334f60;
+$navbarBackgroundHighlight: $navbarBackground;
 $navbarLinkColor: $white;
 $navbarLinkColorHover: $yellow;
-$navbarHeight: 40px;
+$navbarHeight: 60px;
 $navbarFontSize: 14px;
 
 $baseFontFamily: Helvetica, Arial, Verdana, sans-serif;
@@ -35,7 +35,7 @@ $navbar-gradient-bottom: darken($navbar-gradient-top, 40%);
 $toc-gradient-top: $navbar-gradient-top;
 $toc-gradient-bottom: $navbar-gradient-bottom;
 
-$page-title-color: $top-header-color;
+$page-title-color: $navbarBackground;
 $sponsor-sidebar-bgcolor: white;
 
 // ---------------------------------------------------------------------------
@@ -105,7 +105,7 @@ body.error-page {
   }
 }
 
-$main-content-padding-top: $navbarHeight + 40px;
+$main-content-padding-top: $navbarHeight + 50px;
 
 #main-content {
 
@@ -248,19 +248,6 @@ $main-content-padding-top: $navbarHeight + 40px;
     font-family: $header-font !important;
     padding: $header-padding !important;
   }
-
-  div#twitter-widget {
-    margin: {
-      left: 20px;
-      right: 20px;
-      top: 0px;
-    }
-    float: right;
-  }
-}
-
-#calendar {
-  width: 800px;
 }
 
 img.last {
@@ -400,6 +387,8 @@ $logo-font-size: 20px;
       }
 
       ul#navbar-list {
+        padding-top: 30px !important;
+
         li {
           margin: 0 !important;
           padding: 0 !important;
@@ -432,9 +421,10 @@ $logo-font-size: 20px;
         padding-top: $navbarHeight;
         padding: ((($navbarHeight - 20) / 2) * 0.8) 20px ((($navbarHeight - 20) / 2) * 1.2);
 
-        #scalathon-logo {
+        #tpg-logo {
           p {
             img#logo {
+              padding-left: 10px;
               height: $navbarHeight !important;
             }
 
