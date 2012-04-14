@@ -60,4 +60,4 @@ In various ways, including:
 
 ## What's the answer to life, the universe, and everything?
 
-42. (Of course.)
+Why, 42. (Of course.)
