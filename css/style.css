@@ -4333,23 +4333,24 @@ body {
   height: 100% !important; }
 
 body.error-page {
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  border: 1px solid gray;
-  width: 80%;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 3em;
   height: auto !important; }
+  @media (min-width: 100px) {
+    body.error-page {
+      width: 80%; } }
+  @media (min-width: 960px) {
+    body.error-page {
+      width: 50%; } }
+  body.error-page p {
+    font-size: 15px; }
 
 .logo-in-content {
-  height: 100px;
+  height: 80px;
   float: right;
-  margin-right: 30px; }
+  margin-right: 30px;
+  background: #334f60; }
 
 #page-title {
   color: #334f60;
