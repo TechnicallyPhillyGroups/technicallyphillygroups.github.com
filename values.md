@@ -1,8 +1,8 @@
 ---
 title: "Values"
 layout: default
-tab: contact
-toc_header: none
+tab: values
+show_sponsors_sidebar: true
 ---
 
 What's a Learning Organization?
