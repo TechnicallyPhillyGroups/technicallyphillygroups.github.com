@@ -35,7 +35,7 @@ scenes to make things happen.
 
 Yes. TPG has the attention of the Mayor's office. Through representatives
 from the City, TPG has access to additional resources, including meeting
-space in the City's Municipal Services Building.
+space in the City's Municipal Services Building.<img width="240px" src="./images/msb.jpg" style="float:right;padding: 5px 5px 5px 5px;">
 
 [Technically Philly]: http://technicallyphilly.com/
 [André Dhondt]: http://www.about.me/adhondt
