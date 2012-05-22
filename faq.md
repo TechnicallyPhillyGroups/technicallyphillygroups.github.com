@@ -59,7 +59,7 @@ In various ways, including:
   help to promote cross-pollination and networking. TPG sponsors generally
   take care of providing pizza and drinks for these meetings.
 * **Promotion**. TPG can help promote your group to the wider technology
-  audience in the Philadelphia area.
+  audience in the Philadelphia area.<br clear="all" />
 
 ## What's the answer to life, the universe, and everything?
 
