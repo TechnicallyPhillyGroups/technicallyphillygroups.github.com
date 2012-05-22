@@ -13,7 +13,7 @@ us with our mission. We have two levels of sponsorship:
 
 * **Sponsor-of-the-Month:** $250 minimum -- at the beginning of each Technically Philly Groups meeting for the month in which you'd like to apply your donation, we'll acknowledge your company as a sponsor and read out a 30-word announcement of your choice.
 
-All sponsorship money goes directly toward TPG's mission. Your monetary support indicates that you agree to uphold the [TPG Values](/values.html) of service, relationships, and learning.
+All sponsorship money goes directly toward TPG's mission. Your monetary support indicates that you agree to uphold the [TPG Values](/values.html) of service, relationships, and learning before profit.
 
 Mail checks payable to **TPG, Inc.**: 
 
