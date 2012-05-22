@@ -1,11 +1,9 @@
 ---
-title: "Sponsor the Agile Culture Conference"
+title: "TOP NE CORRIDOR AGILE MANAGEMENT CONFERENCE"
 layout: default
 ---
 
-TOP NE CORRIDOR AGILE MANAGEMENT CONFERENCE
-===========================================
-Technically Philly Groups (TPG) has partnered with the Agile NE Corridor, Agile Philly,  Agile Boston, and Agile Connecticut to run this event.  TPG alone has turned out over a hundred participants per month for the last year running at various events, and this is the culmination of our outreach. Anyone who knows that the new wave of management requires better facilitation skills will appreciate this event!
+Technically Philly Groups (TPG) has partnered with the Agile NE Corridor, Agile Philly,  Agile Boston, and Agile Connecticut to run this event.  TPG's e-mail blasts reach thousands of Philadelphia-region technology professionals, and TPG alone has turned out over a hundred participants per month for the last year running at various events. This is the culmination of our outreach. Anyone who knows that the new wave of management requires better facilitation skills will appreciate this event!
 
 SPONSORSHIP BENEFITS
 ==================
@@ -37,7 +35,7 @@ GOLD
 * table
 * event tickets: 2
 * cocktail-hour drink tickets to give to attendees in exchange for contact info  
-* 30-second opportunity to speak during the closing remarks
+* POST-CONFERENCE logo placement in our e-mail blast
 * $2,000; ask for pricing for joint sponsorship in Boston & Philly
 
 

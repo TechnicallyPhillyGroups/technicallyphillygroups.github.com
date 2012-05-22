@@ -50,6 +50,11 @@ He is an invited speaker to conferences such as the prestigious Self-Management 
 Tobias is a genuine thought leader in the Agile software development community. He is the consummate "culture hacker". Outspoken and convicted, he delivers Agile learning and consulting in the US and Europe.
  
 He is a facilitator, educator and independent consultant with a successful record of guiding both major companies and start-ups to more agile, self-organized and compassionate ways of working. A self-educated high school dropout with a background in software development, community education, personal development, technical theatre, creative writing, and graphic design, Tobias brings an unusual mix of ideas and experiences to bear. His workshops and presentations are invitations to explore rather than expert opinion, with the intent always to disturb the equilibrium and inspire different ways of thinking.<br clear="all" />
+
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/AndreDhondt.jpg"/>André Dhondt, Executive/Agile Coach, Agile Philly Coordinator, <a href="http://www.rallydev.com">Rally Software</a>
+
+For over a decade, André has led agile adoptions, providing guidance to teams and organizations seeking shorter development cycles, higher quality, and more effective discovery of customer value. Playing various roles, from developer, manager, product owner and scrum master, he's done everything from hiring and building teams in startup environments to coaching teams for an organization with over 100k employees. Some of his teams have seen 50% reduced cycle time, practically bug-free code with daily deployments, and improved employee morale. He's also active in the community, providing leadership to groups such as: [Agile Philly](http://www.agilephilly.com) and [Technically Philly Groups](/.index.html). 
+<br clear="all" />
  
 
 *more to be announced soon!*
