@@ -26,11 +26,15 @@ Harrison Owen is an author, consultant and photographer. For forty years he has 
 WorldBlu promotes freedom at work throughout the world with seminars, conference events and certifications. Traci is the founder of WorldBlu and the author of the upcoming book FREEDOM AT WORK, chronicling the story of WorldBlu and WorldBlu- certified organizations.<br clear="all"/>
  
 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/JimMcCarthy.jpg"/>Jim McCarthy led the creation one of the great Microsoft teams, the Visual C++ team. Jim wrote Dynamics of Software Development from Microsoft Press (1995, 2006). His approach and observations formed the basis of Microsoft Solutions Framework and were a catalyst for and a progenitor of the Extreme and Agile programming movements. 
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/JimMcCarthy.jpg"/>Jim McCarthy, co-author of <a href="http://www.mccarthyshow.com/online/">The Core Protocols</a> and Software for Your Head.
+
+Jim led the creation one of the great Microsoft teams, the Visual C++ team. Jim wrote Dynamics of Software Development from Microsoft Press (1995, 2006). His approach and observations formed the basis of Microsoft Solutions Framework and were a catalyst for and a progenitor of the Extreme and Agile programming movements. 
 Jim partners with his wife, Michele McCarthy, to run McCarthy Technologies, Inc., which provides technology, training and consulting that enables organizations and teams to consistently generate the greatest possible results. The key to these results is an innovative, proprietary technology called "The Core". It encapsulates and makes accessible the best interpersonal collaboration technology currently available and has been thoroughly researched, tested, and applied over the past 15 years. Just as Jim's earlier approaches contributed to Microsoft's successful culture, and ultimately helped give rise to the XP and Agile movements, his current research into The Core is poised to help a new generation of organizations achieve their highest potential.<br clear="all" />
  
 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/MicheleMcCarthy.jpg"/>Michele McCarthy, co-wrote "Software For Your Head," 2001, Addison-Wesley, and the 2006 edition of "Dynamics of Software Development," by Microsoft Press. Beginning in 1990, Michele worked at Microsoft as a program manager on five projects, establishing a reputation for shipping on time. Jim McCarthy met Michele and encouraged her to move to the Visual C++ group where she began innovating in the area of team dynamics. While at Microsoft, Michele reached many of the insights that led she and Jim to leave Microsoft and create McCarthy Technologies, Inc. She is responsible for the development of many of the team formation concepts McCarthy Technologies practices and teaches today. 
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/MicheleMcCarthy.jpg"/>Michele McCarthy, co-wrote "Software For Your Head," 2001, Addison-Wesley, and the 2006 edition of "Dynamics of Software Development," by Microsoft Press. See more at the <a href="http://www.mccarthyshow.com">McCarthy Show</a>.
+
+Beginning in 1990, Michele worked at Microsoft as a program manager on five projects, establishing a reputation for shipping on time. Jim McCarthy met Michele and encouraged her to move to the Visual C++ group where she began innovating in the area of team dynamics. While at Microsoft, Michele reached many of the insights that led she and Jim to leave Microsoft and create McCarthy Technologies, Inc. She is responsible for the development of many of the team formation concepts McCarthy Technologies practices and teaches today. 
 Michele has brought her team efficiency skills to bear on the McCarthy BootCamps and the subsequent development of The Core Protocols. She is currently the primary instructor at McCarthy BootCamps around the world, the primary consultant to McCarthy Technologies' clients, and co-hosts The McCarthy Show podcast with Jim. Her passion is transforming groups of executives into true teams and advising high potential leaders.<br clear="all" />
  
 
@@ -58,4 +62,5 @@ Freedom at Work, brought to you by revolutionary-day Cities of Freedom: Philadel
 Speakers will be ferried from Philadelphia to Boston on September 14, where we'll pick up additional Agile Culture experts in NYC and CT.
   
 Friday, September 14, in Boston MA
-Learn MORE about the Boston event and <a href="http://newtechusa.net/culture-con/">Agile Boston here.</a>
+
+Learn MORE about the <a href="http://newtechusa.net/culture-con/">Boston event and Agile Boston here.</a>
