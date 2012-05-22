@@ -7,6 +7,7 @@ layout: default
 REGISTER
 ========
  
+Wednesday, Sept 12, 2012 9am-7pm, 800 Ridge Pike, Lafayette Hill, PA
 <a href="https://www.brownpapertickets.com/event/249645">SIGN UP HERE</a>
  
 
