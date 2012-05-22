@@ -1,5 +1,5 @@
 ---
-title: "TOP NE CORRIDOR AGILE MANAGEMENT CONFERENCE"
+title: "Top NE Corridor Agile Management Conference"
 layout: default
 ---
 
