@@ -1,5 +1,5 @@
 ---
-title: "Contact Us"
+title: "Values"
 layout: default
 tab: contact
 toc_header: none
