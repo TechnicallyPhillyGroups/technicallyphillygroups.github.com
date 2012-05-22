@@ -52,8 +52,10 @@ He is a facilitator, educator and independent consultant with a successful recor
 <br clear="all" />
  
 
-MORE IN BOSTON
+Freedom at Work, brought to you by revolutionary-day Cities of Freedom: Philadelphia & Boston
 ==============
- 
+
+Speakers will be ferried from Philadelphia to Boston on September 14, where we'll pick up additional Agile Culture experts in NYC and CT.
+  
 Friday, September 14, in Boston MA
 Learn MORE about the Boston event and <a href="http://newtechusa.net/culture-con/">Agile Boston here.</a>
