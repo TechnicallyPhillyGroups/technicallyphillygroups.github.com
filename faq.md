@@ -14,20 +14,20 @@ written to "TPG," as well.
 ## What is the relationship between Technically Philly and TPG?
 
 [Technically Philly][] has graciously allowed us to piggyback on their good
-name. However, TPG is a completely separate entity. "Tecnically Philly Groups"
+name. However, TPG is a completely separate entity. "Technically Philly Groups"
 is the name of our Pennsylvania non-profit corporation; it is _not_ a
 subsidiary or a related business unit of Technically Media, Inc., which runs
 the Technically Philly web site.
 
 ## Are my contributions to TPG tax-deductible?
 
-No. While Technically Philly Groups is a non-profit company, it is _not_
+No. While Technically Philly Groups is a non-profit company, it is _not_ yet
 a 501(c)(3). Most companies that give us money categorize the donation as
 "Advertising and Promotion," rather than "Charitable Contribution."
 
 ## Who runs TPG?
 
-André Dhondt is the driving force behind the creation of TPG. However, many
+[André Dhondt][] is the driving force behind the creation of TPG. However, many
 others are involved in setting the group's direction and working behind the
 scenes to make things happen.
 
@@ -38,6 +38,7 @@ from the City, TPG has access to additional resources, including meeting
 space in the City's Municipal Services Building.
 
 [Technically Philly]: http://technicallyphilly.com/
+[André Dhondt]: http://www.about.me/adhondt
 
 ## How can I or my group get involved?
 
