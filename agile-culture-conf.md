@@ -21,7 +21,7 @@ SPONSOR
 SPEAKERS
 ========
  
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/HarrisonOwen.jpg"/> Harrison Owen, creator of <a href="http://www.openspaceworld.com/brief_history.htm">Open Space</a>
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/HarrisonOwen.jpg"/> Harrison Owen (keynote speaker), creator of <a href="http://www.openspaceworld.com/brief_history.htm">Open Space</a>
 
 Harrison Owen is an author, consultant and photographer. For forty years he has explored the world and himself seeking the ways and means towards a deeper understanding of who we all are and how we may live productively with meaning and purpose. His journey has always been interesting, sometimes exciting, and on more than one occasion -- deeply rewarding<br clear="all"/>
  
