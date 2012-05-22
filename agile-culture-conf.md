@@ -16,13 +16,13 @@ We are not using the AgilePhilly regular RSVP for this event, so <a href="https:
  
 Harrison Owen, creator of <a href="http://www.openspaceworld.com/brief_history.htm">Open Space</a>
  
-Traci Fenton, founder of WorldBlu
+Traci Fenton, founder of <a href="http://www.worldblu.com/">WorldBlu</a>
  
-Jim & Michele McCarthy, authors of Software for Your Head and the Core Protocols.
+Jim & Michele McCarthy, authors of <a href="http://www.mccarthyshow.com/">Software for Your Head and the Core Protocols.</a>
  
-Dan Mezick, organizer for Agile Boston and author of The Culture Game
+Dan Mezick, organizer for <a href="http://newtechusa.net/user-groups/ma/">Agile Boston and author of The Culture Game</a>
  
-Tobias Mayer, founder of AgileThinking.net
+Tobias Mayer, founder of <a href="http://agilethinking.net/">AgileThinking.net</a>
  
 more to be announced soon!
  
