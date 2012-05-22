@@ -15,6 +15,7 @@ We are a values-based learning organization. We don't want your money unless you
 
 PLATINUM
 ========
+* e-mail address for everyone that opts-in for the raffle (approx 75%) -- single use only
 * PRE-CONFERENCE HTML message of your choice in our e-mail blast
 * LOGO placement on web site
 * LOGO placement on keynote slide deck
@@ -28,6 +29,7 @@ PLATINUM
 
 GOLD
 ========
+* e-mail address for everyone that opts-in for the raffle (approx 75%) -- single use only
 * PRE-CONFERENCE HTML message of your choice in our e-mail blast
 * LOGO placement on web site
 * LOGO placement on keynote slide deck
@@ -54,4 +56,6 @@ BRONZE
 * event tickets: 1
 * $500; ask for pricing for joint sponsorship in Boston & Philly
 
-
+RAFFLE
+========
+* verbal acknowledgement at raffle time of your company's gift
