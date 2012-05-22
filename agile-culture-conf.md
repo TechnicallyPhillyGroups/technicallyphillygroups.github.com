@@ -16,7 +16,7 @@ Wednesday, Sept 12, 2012 8am-7pm
 
 SPONSOR
 ========
-[Sponsorship prospectus](/agile-culture-conf-sponsors.html) 
+[Prospectus](/agile-culture-conf-sponsors.html) 
 
 SPEAKERS
 ========
