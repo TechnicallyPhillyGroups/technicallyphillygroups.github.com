@@ -1,6 +1,7 @@
 ---
 title: "Agile Culture Conference"
 layout: default
+show_sponsors_sidebar: true
 ---
 
 
