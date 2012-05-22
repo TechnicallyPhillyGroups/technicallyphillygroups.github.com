@@ -47,7 +47,7 @@ See our [Contacts](/contact.html) page.
 
 ## How can TPG help my user group?
 
-<img width="240px" src="./images/msb.jpg" style="float:left;padding: 5px 5px 5px 5px;">
+<img width="240px" src="./images/thinking.jpg" style="float:left;padding: 5px 5px 15px 5px;">
 In various ways, including:
 
 * **Facilities**. Through an agreement with the City of Philadelphia, TPG
