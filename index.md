@@ -4,7 +4,10 @@ layout: default
 tab: home
 ---
 
-<img width="120px" src="./images/sharing.jpg"/> <img  width="120px" src=".images/sharing.jpg/> <img  width="120px" src="./images/growing.jpg"/>
+Learning - Relationships - Service
+==================================
+
+<img width="240px" src="./images/sharing.jpg"/> <img width="240px" src=".images/sharing.jpg/"> <img  width="240px" src="./images/growing.jpg"/>
 Technically Philly Groups (TPG) is a Pennsylvania non-profit corporation,
 dedicated to supporting the many  technology users groups in the Philadelphia
 metropolitan area.
