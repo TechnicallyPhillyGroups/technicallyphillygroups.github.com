@@ -1,11 +1,11 @@
 ---
 title: "Agile Culture Conference"
 layout: default
-show_sponsors_sidebar: true
 ---
 
 
 Boost productivity, market/product fit, creativity and quality all while increasing employee morale! If you believe that organizational culture is the key to management, this is the conference for you! At this event, executives, directors, and managers will all find tips & tricks to improve corporate culture, starting day one!
+<img src="./images/AgileCultureConfPhilly.png">
  
 *REGISTER*
  
@@ -14,7 +14,7 @@ We are not using the AgilePhilly regular RSVP for this event, so <a href="https:
 
 *SPEAKERS*
  
-Harrison Owen, creator of Open Space
+Harrison Owen, creator of <a href="http://www.openspaceworld.com/brief_history.htm">Open Space</a>
  
 Traci Fenton, founder of WorldBlu
  
