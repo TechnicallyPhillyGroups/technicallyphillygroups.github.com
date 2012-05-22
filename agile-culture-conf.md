@@ -2,13 +2,15 @@
 title: "Agile Culture Conference"
 layout: default
 ---
-<img width="60%" src="./images/AgileCultureConfPhilly.png" style="float:right;padding: 3px 3px 3px 3px;"/>Boost productivity, market/product fit, creativity and quality all while increasing employee morale! If you believe that organizational culture is the key to management, this is the conference for you! At this event, executives, directors, and managers will all find tips & tricks to improve corporate culture, starting day one!
+<img width="60%" src="./images/AgileCultureConfPhilly.png" style="float:right;padding: 5px 5px 5px 5px;"/>Boost productivity, market/product fit, creativity and quality all while increasing employee morale! If you believe that organizational culture is the key to management, this is the conference for you! At this event, executives, directors, and managers will all find tips & tricks to improve corporate culture, starting day one!
  
 REGISTER
 ========
  
 Wednesday, Sept 12, 2012 9am-7pm
+
 800 Ridge Pike, Lafayette Hill, PA
+
 <a href="https://www.brownpapertickets.com/event/249645">SIGN UP HERE</a>
  
 
