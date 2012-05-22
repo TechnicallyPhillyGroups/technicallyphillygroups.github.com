@@ -14,15 +14,15 @@ We are not using the AgilePhilly regular RSVP for this event, so <a href="https:
 
 *SPEAKERS*
  
-Harrison Owen, creator of <a href="http://www.openspaceworld.com/brief_history.htm">Open Space</a>
+<img width=123px src="./images/HarrisonOwen.jpg"> Harrison Owen, creator of <a href="http://www.openspaceworld.com/brief_history.htm">Open Space</a>
  
-Traci Fenton, founder of <a href="http://www.worldblu.com/">WorldBlu</a>
+<img width=123px src="./images/TraciFenton.jpg">Traci Fenton, founder of <a href="http://www.worldblu.com/">WorldBlu</a>
  
-Jim & Michele McCarthy, authors of <a href="http://www.mccarthyshow.com/">Software for Your Head and the Core Protocols.</a>
+<img width=123px src="./images/JimMcCarthy.jpg"><img width=123px src="./images/MicheleMcCarthy.jpg">Jim & Michele McCarthy, authors of <a href="http://www.mccarthyshow.com/">Software for Your Head and the Core Protocols.</a>
  
-Dan Mezick, organizer for <a href="http://newtechusa.net/user-groups/ma/">Agile Boston and author of The Culture Game</a>
+<img width=123px src="./images/DanMezick.jpg">Dan Mezick, organizer for <a href="http://newtechusa.net/user-groups/ma/">Agile Boston and author of The Culture Game</a>
  
-Tobias Mayer, founder of <a href="http://agilethinking.net/">AgileThinking.net</a>
+<img width=123px src="./images/TobiasMayer.jpg">Tobias Mayer, founder of <a href="http://agilethinking.net/">AgileThinking.net</a>
  
 more to be announced soon!
  
