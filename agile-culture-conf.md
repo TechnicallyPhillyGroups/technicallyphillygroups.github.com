@@ -14,6 +14,10 @@ Wednesday, Sept 12, 2012 8am-7pm
 <a href="https://www.brownpapertickets.com/event/249645">SIGN UP HERE</a>
  
 
+SPONSOR
+========
+[Sponsorship prospectus](/agile-culture-conf-sponsors.html) 
+
 SPEAKERS
 ========
  
@@ -53,7 +57,7 @@ He is a facilitator, educator and independent consultant with a successful recor
 
 <img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/AndreDhondt.jpg"/>André Dhondt, Executive/Agile Coach, Agile Philly Coordinator, <a href="http://www.rallydev.com">Rally Software</a>
 
-For over a decade, André has led agile adoptions, providing guidance to teams and organizations seeking shorter development cycles, higher quality, and more effective discovery of customer value. Playing various roles, from developer, manager, product owner and scrum master, he's done everything from hiring and building teams in startup environments to coaching teams for an organization with over 100k employees. Some of his teams have seen 50% reduced cycle time, practically bug-free code with daily deployments, and improved employee morale. He's also active in the community, providing leadership to groups such as: [Agile Philly](http://www.agilephilly.com) and [Technically Philly Groups](/.index.html). 
+For over a decade, André has led agile adoptions, providing guidance to teams and organizations seeking shorter development cycles, higher quality, and more effective discovery of customer value. Playing various roles, from developer, manager, product owner and scrum master, he's done everything from hiring and building teams in startup environments to coaching teams for an organization with over 100k employees. Some of his teams have seen 50% reduced cycle time, practically bug-free code with daily deployments, and improved employee morale. He's also active in the community, providing leadership to groups such as: [Agile Philly](http://www.agilephilly.com) and [Technically Philly Groups](/index.html). 
 <br clear="all" />
  
 
