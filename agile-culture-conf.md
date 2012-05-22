@@ -13,9 +13,9 @@ REGISTER
 SPEAKERS
 ========
  
-<img style="float:left;" width="123px" src="./images/HarrisonOwen.jpg"/> Harrison Owen, creator of <a href="http://www.openspaceworld.com/brief_history.htm">Open Space</a> Harrison Owen is an author, consultant and photographer. For forty years he has explored the world and himself seeking the ways and means towards a deeper understanding of who we all are and how we may live productively with meaning and purpose. His journey has always been interesting, sometimes exciting, and on more than one occasion -- deeply rewarding<br/>
+<img style="float:left;" width="123px" src="./images/HarrisonOwen.jpg"/> Harrison Owen, creator of <a href="http://www.openspaceworld.com/brief_history.htm">Open Space</a> Harrison Owen is an author, consultant and photographer. For forty years he has explored the world and himself seeking the ways and means towards a deeper understanding of who we all are and how we may live productively with meaning and purpose. His journey has always been interesting, sometimes exciting, and on more than one occasion -- deeply rewarding<br clear="all"/>
  
-<img style="float:left;" width="123px" src="./images/TraciFenton.jpg"/>Traci Fenton, founder of <a href="http://www.worldblu.com/">WorldBlu</a>. WorldBlu promotes freedom at work throughout the world with seminars, conference events and certifications. Traci is the founder of WorldBlu and the author of the upcoming book FREEDOM AT WORK, chronicling the story of WorldBlu and WorldBlu- certified organizations.<br/>
+<img style="float:left;" width="123px" src="./images/TraciFenton.jpg"/>Traci Fenton, founder of <a href="http://www.worldblu.com/">WorldBlu</a>. WorldBlu promotes freedom at work throughout the world with seminars, conference events and certifications. Traci is the founder of WorldBlu and the author of the upcoming book FREEDOM AT WORK, chronicling the story of WorldBlu and WorldBlu- certified organizations.<br clear="all"/>
  
 
 <img style="float:left;" width="123px" src="./images/JimMcCarthy.jpg"/>Jim McCarthy led the creation one of the great Microsoft teams, the Visual C++ team. Jim wrote Dynamics of Software Development from Microsoft Press (1995, 2006). His approach and observations formed the basis of Microsoft Solutions Framework and were a catalyst for and a progenitor of the Extreme and Agile programming movements. 
