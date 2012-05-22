@@ -15,9 +15,13 @@ us with our mission. We have two levels of sponsorship:
 
 All sponsorship money goes directly toward TPG's mission.
 
-Mail checks payable to TPG, Inc.: 
-Technically Philly Groups
+Mail checks payable to **TPG, Inc.**: 
+
+**Technically Philly Groups**
+
 64 West Gowen Ave
+
 Philadelphia, PA 19119
+
 
 For more information, contact andre - at - dhondt-teams-gel.com / 215.805.0819
