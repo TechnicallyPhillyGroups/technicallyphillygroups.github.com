@@ -2,19 +2,18 @@
 title: "Agile Culture Conference"
 layout: default
 ---
-
-Agile Culture Conference
-========================
+<img width="60%" src="./images/AgileCultureConfPhilly.png">
 
 Boost productivity, market/product fit, creativity and quality all while increasing employee morale! If you believe that organizational culture is the key to management, this is the conference for you! At this event, executives, directors, and managers will all find tips & tricks to improve corporate culture, starting day one!
-<img width="60%" src="./images/AgileCultureConfPhilly.png">
  
-*REGISTER*
+REGISTER
+========
  
-We are not using the AgilePhilly regular RSVP for this event, so <a href="https://www.brownpapertickets.com/event/249645">SIGN UP HERE</a>
+<a href="https://www.brownpapertickets.com/event/249645">SIGN UP HERE</a>
  
 
-*SPEAKERS*
+SPEAKERS
+========
  
 <img width="123px" src="./images/HarrisonOwen.jpg"> Harrison Owen, creator of <a href="http://www.openspaceworld.com/brief_history.htm">Open Space</a>
  
@@ -26,10 +25,11 @@ We are not using the AgilePhilly regular RSVP for this event, so <a href="https:
  
 <img width="123px" src="./images/TobiasMayer.jpg">Tobias Mayer, founder of <a href="http://agilethinking.net/">AgileThinking.net</a>
  
-more to be announced soon!
+*more to be announced soon!*
  
 
-*MORE IN BOSTON:*
+MORE IN BOSTON
+==============
  
 Friday, September 14, in Boston MA
 Learn MORE about the Boston event and <a href="http://newtechusa.net/culture-con/">Agile Boston here.</a>
