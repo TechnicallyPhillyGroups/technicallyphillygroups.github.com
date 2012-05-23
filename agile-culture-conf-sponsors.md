@@ -13,8 +13,8 @@ We are a values-based learning organization. We don't want your money unless you
 
 **Expected Attendance:** 250 people, primarily IT managers, executives, and team members
 
-PLATINUM
-========
+PLATINUM SPONSORS
+=================
 * e-mail address for everyone that opts-in for the raffle (approx 75%) -- single use only
 * PRE-CONFERENCE HTML message of your choice in our e-mail blast
 * LOGO placement on web site
@@ -25,37 +25,8 @@ PLATINUM
 * cocktail-hour drink tickets to give to attendees in exchange for contact info  
 * 60-second opportunity to speak during the closing remarks
 * POST-CONFERENCE HTML message of your choice in our e-mail blast
-* $3,000; ask for pricing for joint sponsorship in Boston & Philly
+* call 215.805.0819 for pricing; discount available for dual city coverage of PHILADELPHIA & BOSTON
 
-GOLD
-========
-* e-mail address for everyone that opts-in for the raffle (approx 75%) -- single use only
-* PRE-CONFERENCE HTML message of your choice in our e-mail blast
-* LOGO placement on web site
-* LOGO placement on keynote slide deck
-* Welcome bag insert (provided by you) 
-* table
-* event tickets: 2
-* cocktail-hour drink tickets to give to attendees in exchange for contact info  
-* POST-CONFERENCE logo placement in our e-mail blast
-* $2,000; ask for pricing for joint sponsorship in Boston & Philly
-
-
-SILVER
-========
-* PRE-CONFERENCE logo placement in our e-mail blast
-* LOGO placement on web site
-* event tickets: 1
-* cocktail-hour drink tickets to give to attendees in exchange for contact info  
-* $1,000; ask for pricing for joint sponsorship in Boston & Philly
-
-BRONZE
-========
-* PRE-CONFERENCE logo placement in our e-mail blast
-* LOGO placement on web site
-* event tickets: 1
-* $500; ask for pricing for joint sponsorship in Boston & Philly
-
-RAFFLE
-========
+RAFFLE SPONSORS
+===============
 * verbal acknowledgement at raffle time of your company's gift
