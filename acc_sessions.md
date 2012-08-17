@@ -5,28 +5,6 @@ layout: default
 <a href="./agile-culture-conf.html">REGISTER</a> &nbsp;&nbsp;SESSIONS &nbsp;&nbsp;<a href="./acc_bios.html">SPEAKERS</a> &nbsp;&nbsp;<a href="./acc_program.html">PROGRAM</a>
 ========
  
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/HarrisonOwen.jpg"/> Harrison Owen (keynote speaker), creator of <a href="http://www.openspaceworld.com/brief_history.htm">Open Space</a>
-
- 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/TraciFenton.jpg"/>Traci Fenton, founder of <a href="http://www.worldblu.com/">WorldBlu</a>
-
-
-
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/JimMcCarthy.jpg"/>Jim McCarthy, co-author of <a href="http://www.mccarthyshow.com/online/">The Core Protocols</a> and Software for Your Head.
-
-<br clear="all" />
- 
-
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/MicheleMcCarthy.jpg"/>Michele McCarthy, co-wrote "Software For Your Head," 2001, Addison-Wesley, and the 2006 edition of "Dynamics of Software Development," by Microsoft Press. See more at the <a href="http://www.mccarthyshow.com">McCarthy Show</a>.
-
-<br clear="all" />
- 
-
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/DanMezick.jpg"/>Dan Mezick, organizer for <a href="http://newtechusa.net/user-groups/ma/">Agile Boston and author of The Culture Game</a>
-
-
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/TobiasMayer.jpg"/>Tobias Mayer, Agile Agitator, anarchist, experimenter, and reformer; see <a href="http://agilethinking.net/">AgileThinking.net</a>
-
 <br clear="all" />
 
 Kicking the Habit: Creating lasting cultural change, one pattern at a time.
@@ -40,10 +18,6 @@ The good news is that there's an emerging science behind habit change. If you un
 In this talk I'll cover the science and art of organizational change and illustrate with examples from my own life and practice leaving you with a solid set of tools for shifting the patterns in your own organization. 
 <br clear="all" />
 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/AndreDhondt.jpg"/>André Dhondt, Executive/Agile Coach, Agile Philly Coordinator, <a href="http://www.rallydev.com">Rally Software</a>
-
- 
-<br clear="all" />
 Project RAPPCulture: Illuminating Cultural Paradigms and Sparking Cultural Evolution
 ===================<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/OziomaEgwuonwu.png"/>Ozioma Egwuonwu, Columbia University & Head of <a href="http://burnbright-lifeworks.com/">BurnBright Lifeworks</a>
  
@@ -55,4 +29,20 @@ An organization’s culture is built on values, beliefs and basic assumptions th
 Holding ACEs
 ============
 <img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/DrewMarshall.png"/>Drew Marshall, Principal <a href="http://www.thinkprimed.com">Primed Associates, LLC</a>
-In this new world, speed, agility, and most important: results will ultimately be achieved through the quality of the relationships between people. In order to build those high-quality relationships, we must define and support how they are identified, formed and managed over time. The concept behind our approach is called “Holding ACEs”. An ACE relationship is formed when two or more people choose to enter into an agreement where one person or group commits to meeting the expectations of another. This agreement is a mutually binding and monitored accountability. It is documented and made visible to everyone involved (and may be shared with anyone across the organization.) The sum of all ACEs 'held' by two people, a group or multiple groups is a measure of their:o	intent (what are we trying to achieve?),o	focus (who is doing what?), o	productivity (what are we achieving?) and, o	capacity (what else might we achieve?).
+In this new world, speed, agility, and most important: results will ultimately be achieved through the quality of the relationships between people. In order to build those high-quality relationships, we must define and support how they are identified, formed and managed over time. The concept behind our approach is called “Holding ACEs”. An ACE relationship is formed when two or more people choose to enter into an agreement where one person or group commits to meeting the expectations of another. This agreement is a mutually binding and monitored accountability. It is documented and made visible to everyone involved (and may be shared with anyone across the organization.) The sum of all ACEs 'held' by two people, a group or multiple groups is a measure of their:o	intent (what are we trying to achieve?),o	focus (who is doing what?), o	productivity (what are we achieving?) and, o	capacity (what else might we achieve?).<br clear="all" />
+
+From Scrum to Kanban: An Experiment in Freedom
+================
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/trevormenagh.jpg"/>Trevor Lalish-Menagh, Senior Web Developer, <a href="http://www.comcast.com">Comcast Interactive Media</a>
+Our teams have embraced the agile spirit for years, and what that
+means to us is flexibility. Flexibility in management, flexibility in
+employees, and flexibility to change. Earlier this year, the team I am
+on decided to experiment with a Kanban board and work in progress
+limits, bucking the trend of a scrum-based approach. Although we had
+bumps in the road, through frequent retrospectives and a willingness
+to change we found a system that works for us. I will share our
+experience with you in the hope that you can foster the agile spirit
+in your workplace as well.
+
+
+

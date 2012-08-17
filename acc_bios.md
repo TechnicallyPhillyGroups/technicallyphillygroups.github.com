@@ -48,8 +48,8 @@ Bob Gower is passionate about innovative products and the people who make them. 
 Andrew C. Marshall [Drew] is the Principal of Primed Associates, LLC, an innovation consultancy. He lives in central NJ and works with clients across the USA and around the world. Prior to founding Primed Associates, LLC, Drew spent ten years with Princeton-based management consulting firm Kepner-Tregoe where he rose to become a Partner and the Chief Innovation Officer and visited the Pyramids of Meroë. He is a co-host of the weekly innovation-focused Twitter chat, #innochat, the founder, host and producer of Ignite Princeton and a contributor to the Innovation Excellence and Collaborative Innovation blogs. He is also providing support for the implementation of the Design Thinking for Scholars model with the Network of Leadership Scholars (an interest group within the Academy of Management). He is also a passionate cook - if you enter his home, prepare to be fed.
 <br clear="all" />
 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/"/>Name, title <a href=""></a>
-bio
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/trevormenagh.jpg"/>Trevor Lalish-Menagh, Senior Web Developer, <a href="http://www.comcast.com">Comcast Interactive Media</a>
+Trevor Lalish-Menagh is a senior web developer at Comcast Interactive Media where he spearheaded the front-end unit testing initiative, and co-created EnvJasmine (github.com/trevmex/EnvJasmine), a headless self-contained framework for testing front-end code in a continuous integration environment. He has been a part of the Philly tech scene for the last three years and has been involved in organizing Philly.rb, Philly Lambda, Functional Fall, and Philly ETE. He has spoken at Philly BarCamp, Ruby DCamp, JSConf, and various technology user groups around Philadelphia.
 <br clear="all" />
 
 <img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/"/>Name, title <a href=""></a>
