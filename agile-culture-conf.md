@@ -7,6 +7,7 @@ layout: default
 =============
 
 <img width="40%" src="./images/AgileCultureConfPhilly.jpg" style="float:right;padding: 5px 5px 5px 5px;"/>
+
 *management jolts for the 21st century*
 =============Boost productivity, market/product fit, creativity and quality all while increasing employee morale! If you believe that organizational culture is the key to management, this is the conference for you! At this event, executives, directors, and managers will all find tips & tricks to improve corporate culture, starting day one!
  
