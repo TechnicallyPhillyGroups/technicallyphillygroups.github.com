@@ -9,7 +9,7 @@ layout: default
 
 Kicking the Habit: Creating lasting cultural change, one pattern at a time.
 ==============
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/BobGower.jpg"/>Bob Gower, Agile Coach <a href="http://www.rallydev.com">Rally Software</a>
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/BobGower.jpg"/>Bob Gower, Agile Coach, <a href="http://www.rallydev.com">Rally Software</a>
 
 Culture is a collection of individual and organizational behaviors—most of them habitual. When shifting the behavior of a system we work against powerfully ingrained patterns. These can be incredibly hard to change—ask anyone who's ever tried to quit smoking or lose weight. 
 
@@ -34,7 +34,7 @@ An organization’s culture is built on values, beliefs and basic assumptions th
 
 Holding ACEs
 ============
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/DrewMarshall.png"/>Drew Marshall, Principal <a href="http://www.thinkprimed.com">Primed Associates, LLC</a>
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/DrewMarshall.png"/>Drew Marshall, Principal, <a href="http://www.thinkprimed.com">Primed Associates, LLC</a>
 
 In this new world, speed, agility, and most important: results will ultimately be achieved through the quality of the relationships between people. In order to build those high-quality relationships, we must define and support how they are identified, formed and managed over time. The concept behind our approach is called “Holding ACEs”. An ACE relationship is formed when two or more people choose to enter into an agreement where one person or group commits to meeting the expectations of another. This agreement is a mutually binding and monitored accountability. It is documented and made visible to everyone involved (and may be shared with anyone across the organization.) The sum of all ACEs 'held' by two people, a group or multiple groups is a measure of their: * intent (what are we trying to achieve?), * focus (who is doing what?),  * productivity (what are we achieving?) and,  * capacity (what else might we achieve?).<be clear="all" />
 
@@ -54,7 +54,7 @@ in your workplace as well.
 
 The Agile Culture with or without the PMO
 ================
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/JoeKrebs.jpg"/>Joe Krebs, Coach/Trainer/Consultant <a href="http://www.incrementor.com">Incrementor</a>
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/JoeKrebs.jpg"/>Joe Krebs, Coach/Trainer/Consultant, <a href="http://www.incrementor.com">Incrementor</a>
 
 A Project Management Office (PMO) sets the culture of a project organization with procedures, guidelines, practices and project review. Transitioning to agile projects with truly empowered and self-organized teams, the game for enterprise-wide regulations has changed. Let’s talk about an effective PMO, serving the teams and leading real change.
 

@@ -45,7 +45,7 @@ He is a facilitator, educator and independent consultant with a successful recor
 Bob Gower is passionate about innovative products and the people who make them. An author, speaker, and consultant, Bob has spent more than 15 years leading complex, creative projects. He helps companies leverage the power of their people, and create truly collaborative cultures that improve product quality and employee morale. Bob is currently an Agile coach for Rally Software, where he specializes in enterprise-level Agile transformations. When not traveling, Bob lives in New York City.
 <br clear="all" />
 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/DrewMarshall.png"/>Drew Marshall, Principal <a href="http://www.thinkprimed.com">Primed Associates, LLC</a>
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/DrewMarshall.png"/>Drew Marshall, Principal, <a href="http://www.thinkprimed.com">Primed Associates, LLC</a>
 
 Andrew C. Marshall [Drew] is the Principal of Primed Associates, LLC, an innovation consultancy. He lives in central NJ and works with clients across the USA and around the world. Prior to founding Primed Associates, LLC, Drew spent ten years with Princeton-based management consulting firm Kepner-Tregoe where he rose to become a Partner and the Chief Innovation Officer and visited the Pyramids of Meroë. He is a co-host of the weekly innovation-focused Twitter chat, #innochat, the founder, host and producer of Ignite Princeton and a contributor to the Innovation Excellence and Collaborative Innovation blogs. He is also providing support for the implementation of the Design Thinking for Scholars model with the Network of Leadership Scholars (an interest group within the Academy of Management). He is also a passionate cook - if you enter his home, prepare to be fed.
 <br clear="all" />
@@ -62,12 +62,12 @@ Kathryn Alexander is a culture coach / futurist who shows business leaders how t
 Selected as Organization of the Year in 2012 by the Boulder Business Women and seen as a Woman to Watch in Sustainable Business by the Boulder Weekly, she works with Fortune 50 and start ups.
 <br clear="all" />
 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/JoeKrebs.jpg"/>Joe Krebs, Coach/Trainer/Consultant <a href="http://www.incrementor.com">Incrementor</a>
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/JoeKrebs.jpg"/>Joe Krebs, Coach/Trainer/Consultant, <a href="http://www.incrementor.com">Incrementor</a>
 
 Jochen (Joe) Krebs is an agile coach, trainer, consultant and most important a practitioner. Since 2005, Joe coaches and delivers trainings and workshops to organizations through Incrementor. He helps teams and enterprises with the successful adoption of agile processes such as Scrum, XP, Lean/Kanban and other iterative-incremental processes. His programs are characterized by a unique blend of knowledge transfer with hands-on work. Back in 2008, Joe pioneered “Agile Portfolio Management” by publishing the first book about this topic. Today, many organizations around the globe seeking advice in this topic to benefit from the beauty agile processes provide. He also published numerous articles in magazines about agile practices and processes. When time permits, he speaks at conferences, private client events or presents at other local user group meetings. You will find more information about Joe here or connect with him @jochenkrebs. 
 <br clear="all" />
 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/MichaelSahota.jpg"/>Michael Sahota, Agile Coach <a href="http://agilitrix.com">Agilitrix</a>
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/MichaelSahota.jpg"/>Michael Sahota, Agile Coach, <a href="http://agilitrix.com">Agilitrix</a>
 
 As the senior principal of Agilitrix, his mission is to make a difference in the lives of the people and the companies he works with. As a thought leader, he uses innovative approaches, and a wide set of tools, though his main strength is the energy and passion he brings as a change artist to help clients realize their goals. Sure the goal is to get better, but we can do that and put a smile on everyone’s face.
 <br clear="all" />
