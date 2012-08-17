@@ -40,7 +40,7 @@ Tobias is a genuine thought leader in the Agile software development community. 
  
 He is a facilitator, educator and independent consultant with a successful record of guiding both major companies and start-ups to more agile, self-organized and compassionate ways of working. A self-educated high school dropout with a background in software development, community education, personal development, technical theatre, creative writing, and graphic design, Tobias brings an unusual mix of ideas and experiences to bear. His workshops and presentations are invitations to explore rather than expert opinion, with the intent always to disturb the equilibrium and inspire different ways of thinking.<br clear="all" />
 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/BobGower.jpg"/>Bob Gower, Agile Coach <a href="http://www.rallydev.com">Rally Software</a>
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/BobGower.jpg"/>Bob Gower, Agile Coach, <a href="http://www.rallydev.com">Rally Software</a>
 
 Bob Gower is passionate about innovative products and the people who make them. An author, speaker, and consultant, Bob has spent more than 15 years leading complex, creative projects. He helps companies leverage the power of their people, and create truly collaborative cultures that improve product quality and employee morale. Bob is currently an Agile coach for Rally Software, where he specializes in enterprise-level Agile transformations. When not traveling, Bob lives in New York City.
 <br clear="all" />
