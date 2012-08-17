@@ -30,11 +30,11 @@ Learn MORE about the <a href="http://newtechusa.net/culture-con/">Boston event a
 
 SPONSORS
 ========
-<a href="http://www.getstoried.com"><img src="./sponsor-logos/GetStoried-Logo.png"></a><br/>
-<a href="http://www.infoq.com"><img src="./sponsor-logos/logo-infoq.gif"></a><br/>
-<a href="http://www.rallydev.com"><img src="./sponsor-logos/rally_logo.jpg"></a><br/>
-<a href="http://www.versionone.com"><img src="./sponsor-logos/VersionOne.jpg"></a><br/>
-<a href="http://www.worldblu.com"><img src="./sponsor-logos/WorldBlu-Logo.png"></a><br/>
 [Prospectus](/agile-culture-conf-sponsors.html) 
+<a href="http://www.getstoried.com"><img src="./sponsor-logos/GetStoried-Logo.png"></a>&nbsp;&nbsp;
+<a href="http://www.infoq.com"><img src="./sponsor-logos/logo-infoq.gif"></a>&nbsp;&nbsp;
+<a href="http://www.rallydev.com"><img src="./sponsor-logos/rally_logo.jpg"></a>&nbsp;&nbsp;
+<a href="http://www.versionone.com"><img src="./sponsor-logos/VersionOne.jpg"></a>&nbsp;&nbsp;
+<a href="http://www.worldblu.com"><img src="./sponsor-logos/WorldBlu-Logo.png"></a>&nbsp;&nbsp;
 
 
