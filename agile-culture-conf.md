@@ -8,7 +8,7 @@ layout: default
 
 *management jolts for the 21st century*
 =============
-<img width="60%" src="./images/AgileCultureConfPhilly.jpg" style="float:right;padding: 5px 5px 5px 5px;"/>Boost productivity, market/product fit, creativity and quality all while increasing employee morale! If you believe that organizational culture is the key to management, this is the conference for you! At this event, executives, directors, and managers will all find tips & tricks to improve corporate culture, starting day one!
+<img width="40%" src="./images/AgileCultureConfPhilly.jpg" style="float:right;padding: 5px 5px 5px 5px;"/>Boost productivity, market/product fit, creativity and quality all while increasing employee morale! If you believe that organizational culture is the key to management, this is the conference for you! At this event, executives, directors, and managers will all find tips & tricks to improve corporate culture, starting day one!
  
 REGISTER
 ========
@@ -30,7 +30,7 @@ Learn MORE about the <a href="http://newtechusa.net/culture-con/">Boston event a
 
 SPONSORS
 ========
-[Prospectus](/agile-culture-conf-sponsors.html) 
+[Prospectus](/agile-culture-conf-sponsors.html) <br/>
 <a href="http://www.getstoried.com"><img src="./sponsor-logos/GetStoried-Logo.png"></a>&nbsp;&nbsp;
 <a href="http://www.infoq.com"><img src="./sponsor-logos/logo-infoq.gif"></a>&nbsp;&nbsp;
 <a href="http://www.rallydev.com"><img src="./sponsor-logos/rally_logo.jpg"></a>&nbsp;&nbsp;
