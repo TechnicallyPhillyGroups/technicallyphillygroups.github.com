@@ -18,6 +18,12 @@ The good news is that there's an emerging science behind habit change. If you un
 In this talk I'll cover the science and art of organizational change and illustrate with examples from my own life and practice leaving you with a solid set of tools for shifting the patterns in your own organization. 
 <br clear="all" />
 
+How hidden beliefs and tacit values impact culture
+================
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/KathrynAlexander.png"/>Kathryn Alexander, Culture Coach<a href="http://</a>
+
+In this experiential session participants will explore: their own belief and value systems and, in discussion, examine the impact these have on their underlying preferences for order, the kinds of ethics preferred, and leadership style they find most comfortable. Then we will explore how to work with various types of leaders to create a flexible and authentic culture.The proprietary assessments used in this session have been used for over 15 years, with a new addition recently added to address the shifting needs of companies moving into sustainable business practices. The Birds of a Feather™ assessment provides insight into world-views that impact leadership and the Strategic Values™ assessment opens a window into three systems of values that impact leadership style and culture.Some time is needed to take these assessments and score them using paper and pen or they can be done beforehand (by arrangement) online.
+
 Project RAPPCulture: Illuminating Cultural Paradigms and Sparking Cultural Evolution
 ===================<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/OziomaEgwuonwu.png"/>Ozioma Egwuonwu, Columbia University & Head of <a href="http://burnbright-lifeworks.com/">BurnBright Lifeworks</a>
  
