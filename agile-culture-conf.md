@@ -3,7 +3,8 @@ title: "Agile Culture Conference"
 layout: default
 ---
 
-<a href="./agile-culture-conf.html">REGISTER</a><a href="./acc_sessions.html">SESSIONS</a> <a href="./acc_bios.html">SPEAKERS</a><a href="./acc_program.html">PROGRAM</a>
+REGISTER &nbsp;&nbsp;<a href="./acc_sessions.html">SESSIONS</a>&nbsp;&nbsp; <a href="./acc_bios.html">SPEAKERS</a>&nbsp;&nbsp; <a href="./acc_program.html">PROGRAM</a>
+=============
 
 *management jolts for the 21st century*
 =============
