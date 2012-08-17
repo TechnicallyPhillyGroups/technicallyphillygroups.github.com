@@ -67,14 +67,10 @@ Selected as Organization of the Year in 2012 by the Boulder Business Women and s
 Jochen (Joe) Krebs is an agile coach, trainer, consultant and most important a practitioner. Since 2005, Joe coaches and delivers trainings and workshops to organizations through Incrementor. He helps teams and enterprises with the successful adoption of agile processes such as Scrum, XP, Lean/Kanban and other iterative-incremental processes. His programs are characterized by a unique blend of knowledge transfer with hands-on work. Back in 2008, Joe pioneered “Agile Portfolio Management” by publishing the first book about this topic. Today, many organizations around the globe seeking advice in this topic to benefit from the beauty agile processes provide. He also published numerous articles in magazines about agile practices and processes. When time permits, he speaks at conferences, private client events or presents at other local user group meetings. You will find more information about Joe here or connect with him @jochenkrebs. 
 <br clear="all" />
 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/"/>Name, title <a href=""></a>
-bio
-<br clear="all" />
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/MichaelSahota.jpg"/>Michael Sahota, Agile Coach <a href="http://agilitrix.com">Agilitrix</a>
 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/"/>Name, title <a href=""></a>
-bio
+As the senior principal of Agilitrix, his mission is to make a difference in the lives of the people and the companies he works with. As a thought leader, he uses innovative approaches, and a wide set of tools, though his main strength is the energy and passion he brings as a change artist to help clients realize their goals. Sure the goal is to get better, but we can do that and put a smile on everyone’s face.
 <br clear="all" />
-
 
 <img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/AndreDhondt.jpg"/>André Dhondt, Executive/Agile Coach, Agile Philly Coordinator, <a href="http://www.rallydev.com">Rally Software</a>
 
