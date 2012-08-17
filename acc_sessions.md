@@ -20,7 +20,7 @@ In this talk I'll cover the science and art of organizational change and illustr
 
 How hidden beliefs and tacit values impact culture
 ================
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/KathrynAlexander.png"/>Kathryn Alexander, Culture Coach<a href="http://</a>
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/KathrynAlexander.png"/>Kathryn Alexander, Culture Coach
 
 In this experiential session participants will explore: their own belief and value systems and, in discussion, examine the impact these have on their underlying preferences for order, the kinds of ethics preferred, and leadership style they find most comfortable. Then we will explore how to work with various types of leaders to create a flexible and authentic culture.The proprietary assessments used in this session have been used for over 15 years, with a new addition recently added to address the shifting needs of companies moving into sustainable business practices. The Birds of a Feather™ assessment provides insight into world-views that impact leadership and the Strategic Values™ assessment opens a window into three systems of values that impact leadership style and culture.Some time is needed to take these assessments and score them using paper and pen or they can be done beforehand (by arrangement) online.
 
@@ -51,6 +51,12 @@ bumps in the road, through frequent retrospectives and a willingness
 to change we found a system that works for us. I will share our
 experience with you in the hope that you can foster the agile spirit
 in your workplace as well.
+
+The Agile Culture with or without the PMO
+================
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/JoeKrebs.jpg"/>Joe Krebs, Coach/Trainer/Consultant <a href="http://www.incrementor.com">Incrementor</a>
+
+A Project Management Office (PMO) sets the culture of a project organization with procedures, guidelines, practices and project review. Transitioning to agile projects with truly empowered and self-organized teams, the game for enterprise-wide regulations has changed. Let’s talk about an effective PMO, serving the teams and leading real change.
 
 
 

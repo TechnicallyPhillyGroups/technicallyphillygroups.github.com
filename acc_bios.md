@@ -62,8 +62,9 @@ Kathryn Alexander is a culture coach / futurist who shows business leaders how t
 Selected as Organization of the Year in 2012 by the Boulder Business Women and seen as a Woman to Watch in Sustainable Business by the Boulder Weekly, she works with Fortune 50 and start ups.
 <br clear="all" />
 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/"/>Name, title <a href=""></a>
-bio
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/JoeKrebs.jpg"/>Joe Krebs, Coach/Trainer/Consultant <a href="http://www.incrementor.com">Incrementor</a>
+
+Jochen (Joe) Krebs is an agile coach, trainer, consultant and most important a practitioner. Since 2005, Joe coaches and delivers trainings and workshops to organizations through Incrementor. He helps teams and enterprises with the successful adoption of agile processes such as Scrum, XP, Lean/Kanban and other iterative-incremental processes. His programs are characterized by a unique blend of knowledge transfer with hands-on work. Back in 2008, Joe pioneered “Agile Portfolio Management” by publishing the first book about this topic. Today, many organizations around the globe seeking advice in this topic to benefit from the beauty agile processes provide. He also published numerous articles in magazines about agile practices and processes. When time permits, he speaks at conferences, private client events or presents at other local user group meetings. You will find more information about Joe here or connect with him @jochenkrebs. 
 <br clear="all" />
 
 <img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/"/>Name, title <a href=""></a>
