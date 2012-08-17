@@ -50,12 +50,3 @@ For over a decade, André has led agile adoptions, providing guidance to teams a
 
 Considered a leader in the emerging discipline of cultural strategy, Ozioma Egwuonwu has solved complex production, strategic and creative problems for a diverse array of clients across a number of product and service categories. Ms. Egwuonwu is Head of CULTURA, a practice across RAPP’s global network that helps clients "find their role" in culture by uncovering insights, fueling innovation and crafting brand experiences rooted in culture.In 2006 at the age of 25, Ozioma founded BurnBright Lifeworks, Inc. a consultancy that specializes in igniting human potential within the arena of personal, professional and cultural transformation http://burnbright-lifeworks.com/Ozioma has written for numerous publications, been featured on NBC, spoken at SXW Interactive festival and served as an adjunct professor at Marymount College of Fordham University in their theatre and media departmentMs. Egwuonwu currently teaches Developing and Implementing Ideas, a masters levels course at Columbia University.<br clear="all" />
  
-
-Freedom at Work, brought to you by revolutionary-day Cities of Freedom: Philadelphia & Boston
-==============
-
-Speakers will be ferried from Philadelphia to Boston on September 14, where we'll pick up additional Agile Culture experts in NYC and CT.
-  
-Friday, September 14, in Boston MA
-
-Learn MORE about the <a href="http://newtechusa.net/culture-con/">Boston event and Agile Boston here.</a>
