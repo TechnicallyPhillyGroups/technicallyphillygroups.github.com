@@ -40,6 +40,35 @@ Tobias is a genuine thought leader in the Agile software development community. 
  
 He is a facilitator, educator and independent consultant with a successful record of guiding both major companies and start-ups to more agile, self-organized and compassionate ways of working. A self-educated high school dropout with a background in software development, community education, personal development, technical theatre, creative writing, and graphic design, Tobias brings an unusual mix of ideas and experiences to bear. His workshops and presentations are invitations to explore rather than expert opinion, with the intent always to disturb the equilibrium and inspire different ways of thinking.<br clear="all" />
 
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/BobGower.jpg"/>Bob Gower, Agile Coach <a href="http://www.rallydev.com">Rally Software</a>
+Bob Gower is passionate about innovative products and the people who make them. An author, speaker, and consultant, Bob has spent more than 15 years leading complex, creative projects. He helps companies leverage the power of their people, and create truly collaborative cultures that improve product quality and employee morale. Bob is currently an Agile coach for Rally Software, where he specializes in enterprise-level Agile transformations. When not traveling, Bob lives in New York City.
+<br clear="all" />
+
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/DrewMarshall.png"/>Drew Marshall, Principal <a href="http://www.thinkprimed.com">Primed Associates, LLC</a>
+Andrew C. Marshall [Drew] is the Principal of Primed Associates, LLC, an innovation consultancy. He lives in central NJ and works with clients across the USA and around the world. Prior to founding Primed Associates, LLC, Drew spent ten years with Princeton-based management consulting firm Kepner-Tregoe where he rose to become a Partner and the Chief Innovation Officer and visited the Pyramids of Meroë. He is a co-host of the weekly innovation-focused Twitter chat, #innochat, the founder, host and producer of Ignite Princeton and a contributor to the Innovation Excellence and Collaborative Innovation blogs. He is also providing support for the implementation of the Design Thinking for Scholars model with the Network of Leadership Scholars (an interest group within the Academy of Management). He is also a passionate cook - if you enter his home, prepare to be fed.
+<br clear="all" />
+
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/"/>Name, title <a href=""></a>
+bio
+<br clear="all" />
+
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/"/>Name, title <a href=""></a>
+bio
+<br clear="all" />
+
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/"/>Name, title <a href=""></a>
+bio
+<br clear="all" />
+
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/"/>Name, title <a href=""></a>
+bio
+<br clear="all" />
+
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/"/>Name, title <a href=""></a>
+bio
+<br clear="all" />
+
+
 <img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/AndreDhondt.jpg"/>André Dhondt, Executive/Agile Coach, Agile Philly Coordinator, <a href="http://www.rallydev.com">Rally Software</a>
 
 For over a decade, André has led agile adoptions, providing guidance to teams and organizations seeking shorter development cycles, higher quality, and more effective discovery of customer value. Playing various roles, from developer, manager, product owner and scrum master, he's done everything from hiring and building teams in startup environments to coaching teams for an organization with over 100k employees. Some of his teams have seen 50% reduced cycle time, practically bug-free code with daily deployments, and improved employee morale. He's also active in the community, providing leadership to groups such as: [Agile Philly](http://www.agilephilly.com) and [Technically Philly Groups](/index.html). 
