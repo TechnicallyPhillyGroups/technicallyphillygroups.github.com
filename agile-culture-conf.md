@@ -24,15 +24,11 @@ SPONSOR
 ========
 [Prospectus](/agile-culture-conf-sponsors.html) 
 
-<a href="./acc_sessions.html">SESSIONS</a> <a href="./acc_bios.html">SPEAKERS</a> <a href="./acc_program.html">PROGRAM</a>
-========
-
 
 Freedom at Work, brought to you by revolutionary-day Cities of Freedom: Philadelphia & Boston
 ==============
 
-Speakers will be ferried from Philadelphia to Boston on September 14, where we'll pick up additional Agile Culture experts in NYC and CT.
-  
-Friday, September 14, in Boston MA
+PHILLY: Wednesday, September 12
+BOSTON: Friday, September 14
 
 Learn MORE about the <a href="http://newtechusa.net/culture-con/">Boston event and Agile Boston here.</a>
