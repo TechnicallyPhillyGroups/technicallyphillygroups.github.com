@@ -46,7 +46,7 @@ For over a decade, André has led agile adoptions, providing guidance to teams a
 <br clear="all" />
  
 
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/OziomaEgwuonwu.jpg"/>Ozioma Egwuonwu, Columbia University & Head of <a href="http://burnbright-lifeworks.com/">BurnBright Lifeworks</a>
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/OziomaEgwuonwu.png"/>Ozioma Egwuonwu, Columbia University & Head of <a href="http://burnbright-lifeworks.com/">BurnBright Lifeworks</a>
 
 Considered a leader in the emerging discipline of cultural strategy, Ozioma Egwuonwu has solved complex production, strategic and creative problems for a diverse array of clients across a number of product and service categories. Ms. Egwuonwu is Head of CULTURA, a practice across RAPP’s global network that helps clients "find their role" in culture by uncovering insights, fueling innovation and crafting brand experiences rooted in culture.In 2006 at the age of 25, Ozioma founded BurnBright Lifeworks, Inc. a consultancy that specializes in igniting human potential within the arena of personal, professional and cultural transformation http://burnbright-lifeworks.com/Ozioma has written for numerous publications, been featured on NBC, spoken at SXW Interactive festival and served as an adjunct professor at Marymount College of Fordham University in their theatre and media departmentMs. Egwuonwu currently teaches Developing and Implementing Ideas, a masters levels course at Columbia University.<br clear="all" />
  
