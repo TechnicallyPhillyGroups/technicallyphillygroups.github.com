@@ -9,7 +9,7 @@ MORNING PROGRAM
 ========
 
 
-<table>
+<table border="1" cellpadding="3">
 <tr><td>TIME</td><td>TRACK A</td><td>TRACK B</td><td>TRACK C</td></tr>
 <tr><td>8:30AM</td><td colspan="3">Keynote, Harrison Owen</td></tr>
 <tr><td>9:00AM</td><td>Doug Kirkpatrick</td><td>Jeff Friedman</td><td>Kathryn Alexander</td></tr>
@@ -25,6 +25,6 @@ AFTERNOON PROGRAM (OPEN SPACES)
 
 Open space gives you the opportunity to speak about anything you're passionate about--you could convene an in-depth discussion on something that was or wasn't covered in the morning sessions, or you could simply join someone else's conversation.  Some of our speakers have already announced topics:
 
-Dan Gullo
-Ozioma Egwuonwu
-Drew Marshall
+Dan Gullo<br/>
+Ozioma Egwuonwu<br/>
+Drew Marshall<br/>
