@@ -2,7 +2,7 @@
 title: "Agile Culture Conference Sessions"
 layout: default
 ---
-SESSIONS <a href="./acc_bios.html">SPEAKERS</a> <a href="./acc_program.html">PROGRAM</a>
+<a href="./agile-culture-conf.html">REGISTER</a> SESSIONS <a href="./acc_bios.html">SPEAKERS</a> <a href="./acc_program.html">PROGRAM</a>
 ========
  
 <img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/HarrisonOwen.jpg"/> Harrison Owen (keynote speaker), creator of <a href="http://www.openspaceworld.com/brief_history.htm">Open Space</a>

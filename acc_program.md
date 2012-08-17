@@ -2,8 +2,7 @@
 title: "Agile Culture Conference Program"
 layout: default
 ---
-
-<a href="./acc_sessions.html">SESSIONS</a> <a href="./acc_bios.html">SPEAKERS</a> PROGRAM
+<a href="./agile-culture-conf.html">REGISTER</a><a href="./acc_sessions.html">SESSIONS</a> <a href="./acc_bios.html">SPEAKERS</a> PROGRAM
 ========
 
 MORNING PROGRAM
