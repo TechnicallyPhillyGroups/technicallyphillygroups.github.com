@@ -14,9 +14,9 @@ Harrison Owen is an author, consultant and photographer. For forty years he has 
 
 WorldBlu promotes freedom at work throughout the world with seminars, conference events and certifications. Traci is the founder of WorldBlu and the author of the upcoming book FREEDOM AT WORK, chronicling the story of WorldBlu and WorldBlu- certified organizations.<br clear="all"/>
  
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/EricRaymond.png"/>Eric Raymond, Open Source Leader, Author of How to Be a Hacker, The Cathedral and the Bazaar & The Art of Unix Programming<a href="http://www.catb.org/~esr">More…</a>
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/EricRaymond.png"/>Eric Raymond, Open Source Leader, Author of How to Be a Hacker, The Cathedral and the Bazaar & The Art of Unix Programming  <a href="http://www.catb.org/~esr">More…</a>
 
-Eric S. Raymond is an observer-participant anthropologist in the Internet hacker culture. His research has helped explain the decentralized open-source model of software development that has proven so effective in the evolution of the Internet. Mr. Raymond is also a science fiction fan, a musician, an activist for the First and Second Amendments, and a martial artist with a Black Belt in Tae Kwon Do. His home page is at <a href="http://www.catb.org/~esr">http://www.catb.org/~esr</a>.
+Eric S. Raymond is an observer-participant anthropologist in the Internet hacker culture. His research has helped explain the decentralized open-source model of software development that has proven so effective in the evolution of the Internet. Mr. Raymond is also a science fiction fan, a musician, an activist for the First and Second Amendments, and a martial artist with a Black Belt in Tae Kwon Do.<br clear="all"/>
 
 <img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/JimMcCarthy.jpg"/>Jim McCarthy, co-author of <a href="http://www.mccarthyshow.com/online/">The Core Protocols</a> and Software for Your Head.
 
