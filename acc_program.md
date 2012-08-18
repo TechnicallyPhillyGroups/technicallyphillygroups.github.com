@@ -25,6 +25,6 @@ AFTERNOON PROGRAM (OPEN SPACE)
 
 Open space gives you the opportunity to speak about anything you're passionate about--you could convene an in-depth discussion on something that was or wasn't covered in the morning sessions, or you could simply join someone else's conversation.  Some of our speakers have already announced topics:
 
-Dan Gullo<br/>
+Daniel Gullo<br/>
 Ozioma Egwuonwu<br/>
 Drew Marshall<br/>
