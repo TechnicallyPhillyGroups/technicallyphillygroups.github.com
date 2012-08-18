@@ -9,7 +9,7 @@ layout: default
 
 Culture-hacking the open-source movement.
 ==============
-<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/EricRaymond.png"/>Eric Raymond, Open Source Leader, Author of How to Be a Hacker, The Cathedral and the Bazaar & The Art of Unix Programming<a href="http://www.catb.org/~esr">More…</a>
+<img style="float:left; padding: 3px 3px 3px 3px;" width="123px" src="./images/EricRaymond.png"/>Eric Raymond, Open Source Leader, Author of How to Be a Hacker, The Cathedral and the Bazaar & The Art of Unix Programming <a href="http://www.catb.org/~esr">More…</a>
 
 The open-source movement is what Dan Mezick calls a "good game".  It
 didn't get that way by accident.  Eric Raymond, one of its founders,
