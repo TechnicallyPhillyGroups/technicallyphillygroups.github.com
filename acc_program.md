@@ -15,7 +15,7 @@ MORNING PROGRAM
 <tr><td>9:00AM</td><td>Doug Kirkpatrick</td><td>Jeff Friedman</td><td>Kathryn Alexander</td></tr>
 <tr><td>9:30AM</td><td>Tobias Mayer</td><td>Eric Raymond</td><td>TBA</td></tr>
 <tr><td>10:00AM</td><td>Traci Fenton</td><td>Daniel Mezick</td><td>Michael Sahota</td></tr>
-<tr><td>10:30AM</td><td>André Dhondt</td><td>Joe Krebs</td><td>Bob Gower</td></tr>
+<tr><td>10:30AM</td><td>Bob Gower</td><td>Joe Krebs</td><td>André Dhondt</td></tr>
 <tr><td>11:00AM</td><td>Michael Margolis</td><td>Vickie Gray</td><td>Trevor Lelash-Menagh</td></tr>
 <tr><td>11:30AM</td><td colspan="3">-- -- -- -- -- -- Jim & Michele McCarthy -- -- -- -- -- --</td></tr>
 </table>
