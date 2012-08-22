@@ -12,7 +12,7 @@ MORNING PROGRAM
 <table border="1" cellpadding="3">
 <tr><td>TIME</td><td>TRACK A</td><td>TRACK B</td><td>TRACK C</td></tr>
 <tr><td>8:30AM</td><td colspan="3">-- -- -- -- -- -- Keynote, Harrison Owen -- -- -- -- -- --</td></tr>
-<tr><td>9:00AM</td><td>Doug Kirkpatrick</td><td>Jeff Friedman</td><td>Kathryn Alexander</td></tr>
+<tr><td>9:00AM</td><td>TBA</td><td>Jeff Friedman</td><td>Kathryn Alexander</td></tr>
 <tr><td>9:30AM</td><td>Tobias Mayer</td><td>Eric Raymond</td><td>TBA</td></tr>
 <tr><td>10:00AM</td><td>Traci Fenton</td><td>Daniel Mezick</td><td>Michael Sahota</td></tr>
 <tr><td>10:30AM</td><td>Bob Gower</td><td>Joe Krebs</td><td>André Dhondt</td></tr>
