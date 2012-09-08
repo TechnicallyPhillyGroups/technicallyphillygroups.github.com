@@ -41,7 +41,6 @@ tab: groups
 * [Philadelphia Area New Media Association](http://www.panma.org)
 * [IT Pros](http://www.itprosphilly.com)
 * [Philly Startup Hackers](http://www.facebook.com/groups/phillyhack)
-* [Philadelphia Game Labs](http://philadelphiagamelab.org/)
 * [Funding Works](http://fundingworks.org)
 * Appaholics Anonymous
 * [Open Access Philly](http://www.openaccessphilly.com/)
