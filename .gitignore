@@ -4,3 +4,4 @@ sass/.sass-cache
 css/_*.scss
 *.sublime-*
 .envrc
+.rvmrc
